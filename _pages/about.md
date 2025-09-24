@@ -24,8 +24,6 @@ My long-term goal is to design **clinically meaningful and trustworthy AI system
 - ⚡ **Efficient Training & Deployment** with distributed systems and inference acceleration
 
 
-I have developed several domain-specific models for **CT-based abnormality detection**, **medical report generation**, and **medical visual question answering (VQA)**. My work emphasizes both clinical value and technical innovation, integrating **abnormality reweighting**, **visual expert modules**, and **residual alignment mechanisms**.
-
 ---
 
 ### Highlights
