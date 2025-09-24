@@ -13,13 +13,16 @@ Welcome to my academic homepage. I am a researcher in **AI-driven medical image 
 
 ### About Me
 
-I work at the intersection of artificial intelligence and healthcare, focusing on:
+I am a Ph.D. student at the **University of Science and Technology of China (USTC)**, working at the intersection of **AI, medical imaging, and multimodal learning**.  
+My long-term goal is to design **clinically meaningful and trustworthy AI systems** that connect 3D medical imaging with natural language reasoning, enabling more accurate diagnosis and interpretable clinical decision support.
 
-- 3D Vision-Language Models for CT and MRI
-- Zero-shot and few-shot medical image diagnosis
-- Reinforcement learning for clinical decision-making
-- Cross-modal alignment and token interaction optimization
-- Efficient large-scale training and deployment
+**Research Areas:**
+- 🧠 **3D Vision-Language Models** for CT/MRI interpretation and report generation  
+- 🩻 **Zero-shot & Few-shot Diagnosis** for rare diseases and open-set evaluation  
+- 🎯 **Reinforcement Learning for Clinical Reasoning**, confidence calibration, and decision making  
+- 🔗 **Cross-Modal Feature Alignment** with token interaction optimization  
+- ⚡ **Efficient Training & Deployment** with distributed systems and inference acceleration
+
 
 I have developed several domain-specific models for **CT-based abnormality detection**, **medical report generation**, and **medical visual question answering (VQA)**. My work emphasizes both clinical value and technical innovation, integrating **abnormality reweighting**, **visual expert modules**, and **residual alignment mechanisms**.
 
@@ -27,20 +30,17 @@ I have developed several domain-specific models for **CT-based abnormality detec
 
 ### Highlights
 
-- 🔬 Proposed **Med3D-R1**, a 3D medical VLM with multi-stage clinical reasoning (Submitted to ACM MM 2025).
-- 🩻 Built zero-shot diagnostic models for **X-ray** and **CT** using CLIP variants tailored for medical imaging.
-- 🧠 Designed reinforcement learning tasks involving diagnosis reasoning, decision confidence, and option filtering.
-- ⚙️ Integrated **TensorRT-LLM**, **DeepSpeed**, and mixed-precision tuning for efficient large-scale training.
-- 📚 Authored peer-reviewed papers and contributed open-source code for medical AI research.
+- 🔬 **Med3D-R1**: Proposed a multi-stage reasoning framework for 3D medical VLMs, integrating abnormality reweighting and reinforcement learning.
+- 🩻 **CT & X-ray Zero-shot Diagnosis**: Built CLIP-based models for large-scale chest imaging, achieving strong performance on open-set and rare disease benchmarks.
+- 🧠 **Clinical Reasoning with RL**: Designed RL tasks for option filtering, diagnosis justification, and uncertainty calibration, improving trustworthiness of model outputs.
+- ⚙️ **Scalable Training & Deployment**: Integrated **TensorRT-LLM**, **DeepSpeed**, and mixed-precision training, reducing inference latency by >40%.
+- 📚 **Publications & Open Source**: Published in **CVPR, IEEE TMI, MIA**, and released reproducible code and datasets for medical AI research.
+
 
 ---
 
-### About This Website
+### Call to Action
 
-This website is powered by [Academic Pages](https://github.com/academicpages/academicpages.github.io) and hosted for free by [GitHub Pages](https://pages.github.com). It is organized by content types: publications, projects, presentations, teaching, and datasets.
 
-All pages are written in Markdown and managed via version control on GitHub. You can view and replicate this setup via the [template repository](https://github.com/academicpages/academicpages.github.io).
-
----
-
-Feel free to [contact me](mailto:your_email@ustc.edu.cn) for academic collaboration or questions.
+💡 **I am open to collaborations** on medical vision-language models, multimodal learning, and clinical AI applications.  
+Feel free to [email me](mailto:haoranlai@mail.ustc.edu.cn) or connect via [GitHub](https://github.com/laihaoran).
