@@ -1,152 +1,227 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Haoran Lai",
+    "email": "haoranlai@mail.ustc.edu.cn",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://laihaoran.github.io",
+    "summary": "Ph.D. candidate in Biomedical Engineering at USTC. Research on 3D medical vision-language models, cross-modal alignment, and reinforcement learning for clinical reasoning.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "city": "Suzhou",
+      "countryCode": "CN",
+      "region": "Jiangsu"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "Haoran Lai",
+        "url": "https://scholar.google.com/citations?user=y4RUE_YAAAAJ&hl=zh-TW"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "username": "0000-0002-1549-474X",
+        "url": "https://orcid.org/0000-0002-1549-474X"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "laihaoran",
+        "url": "https://github.com/laihaoran"
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "iFLYTEK Co., Ltd. — Smart Healthcare Institute",
+      "position": "Research Algorithm Engineer (Intern)",
+      "startDate": "2023-04-01",
+      "endDate": "2025-04-01",
+      "summary": "Participated in multimodal medical AI research and development.",
+      "highlights": [
+        "XiaoYi Medical QA System: Developed medical dialogue generation module; introduced knowledge graphs and RAG techniques to improve professional accuracy.",
+        "iFLYTEK Spark Medical LLM: Led image-text alignment algorithm research; proposed cross-modal alignment optimization module for dynamic fusion of medical image and report features."
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "institution": "University of Science and Technology of China (USTC)",
+      "area": "Biomedical Engineering",
+      "studyType": "Ph.D.",
+      "startDate": "2022-09-01",
+      "endDate": "",
       "gpa": null,
-      "courses": []
+      "courses": [],
+      "advisor": "Prof. Shaohua Zhou (IEEE Fellow, Dean)"
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "institution": "Southern Medical University",
+      "area": "Biomedical Engineering",
+      "studyType": "M.S.",
+      "startDate": "2019-09-01",
+      "endDate": "2022-06-01",
       "gpa": null,
-      "courses": []
+      "courses": [],
+      "advisor": "Prof. Meiyan Huang (Guangdong Young Pearl River Scholar)"
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "institution": "Southern Medical University",
+      "area": "Biomedical Engineering",
+      "studyType": "B.S.",
+      "startDate": "2015-09-01",
+      "endDate": "2019-06-01",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Proficient",
+      "keywords": ["Python", "C++"]
+    },
+    {
+      "name": "Deep Learning Frameworks",
+      "level": "Proficient",
+      "keywords": ["PyTorch", "TensorFlow"]
+    },
+    {
+      "name": "Research Areas",
+      "level": "",
+      "keywords": ["Medical Image Analysis", "Vision-Language Models", "Cross-modal Alignment", "3D Medical Imaging", "Reinforcement Learning"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Chinese",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Proficient (CET-6: 488)"
+    }
+  ],
+  "interests": [
+    {
+      "name": "3D Medical Vision-Language Models"
+    },
+    {
+      "name": "Cross-Modal Feature Alignment"
+    },
+    {
+      "name": "Reinforcement Learning for Clinical Reasoning"
+    }
+  ],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Bridged Semantic Alignment for Zero-shot 3D Medical Image Diagnosis",
+      "publisher": "IEEE Journal of Biomedical and Health Informatics",
+      "releaseDate": "2025-01-01",
+      "website": "",
+      "summary": "1st author. CAS Q1, JCR Q1 Top, IF: 6.8. Proposed explicit and implicit alignment strategies for zero-shot 3D CT diagnosis."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "CARZero: Cross-Attention Alignment for Radiology Zero-Shot Classification",
+      "publisher": "CVPR 2024",
+      "releaseDate": "2024-06-01",
+      "website": "",
+      "summary": "1st author. CCF A. Proposed a cross-attention based learnable alignment strategy replacing cosine similarity for medical zero-shot classification."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Long-Tailed Multi-Label Classification with Noisy Label of Thoracic Diseases from Chest X-Ray",
+      "publisher": "ISBI 2024",
+      "releaseDate": "2024-04-01",
+      "website": "",
+      "summary": "1st author. IEEE Flagship Conference in Biomedical Imaging."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Prior Knowledge-Aware Fusion Network for Prediction of Macrovascular Invasion in Hepatocellular Carcinoma",
+      "publisher": "IEEE Transactions on Medical Imaging",
+      "releaseDate": "2022-01-01",
+      "website": "",
+      "summary": "1st author. CAS Q1, JCR Q1 Top, IF: 10.048."
+    },
+    {
+      "name": "2D-3D Cascade Network for Glioma Segmentation in Multisequence MRI Images Using Multiscale Information",
+      "publisher": "Computer Methods and Programs in Biomedicine",
+      "releaseDate": "2022-06-01",
+      "website": "",
+      "summary": "Co-first author. CAS Q2, JCR Q1 Top, IF: 6.1."
+    },
+    {
+      "name": "Multi-task Deep Learning Network to Predict Future Macrovascular Invasion in Hepatocellular Carcinoma",
+      "publisher": "EClinicalMedicine",
+      "releaseDate": "2021-01-01",
+      "website": "",
+      "summary": "Co-first author. CAS Q1, JCR Q1 Top, IF: 17.033."
+    },
+    {
+      "name": "Deep-Gated Recurrent Unit and Diet Network-Based Genome-Wide Association Analysis for Detecting the Biomarkers of Alzheimer's Disease",
+      "publisher": "Medical Image Analysis",
+      "releaseDate": "2021-06-01",
+      "website": "",
+      "summary": "2nd author. CAS Q1, JCR Q1 Top, IF: 10.7."
+    },
+    {
+      "name": "Semi-supervised hybrid spine network for segmentation of spine MR images",
+      "publisher": "Computerized Medical Imaging and Graphics",
+      "releaseDate": "2023-01-01",
+      "website": "",
+      "summary": "Co-corresponding author. CAS Q2, JCR Q1 Top, IF: 5.4."
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "CARZero: Cross-Attention Alignment for Radiology Zero-Shot Classification",
+      "event": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)",
+      "date": "2024-06-17",
+      "location": "Seattle, WA, USA",
+      "description": "Poster presentation."
     }
   ],
-  "teaching": [
+  "awards": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "title": "Outstanding Ph.D. Graduate",
+      "date": "2026-04-01",
+      "awarder": "University of Science and Technology of China",
+      "summary": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
+      "title": "National Scholarship for Ph.D. Students",
+      "date": "2024-12-01",
+      "awarder": "University of Science and Technology of China",
+      "summary": ""
+    },
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "title": "Suzhou Industrial Park Scholarship",
+      "date": "2022-12-01",
+      "awarder": "University of Science and Technology of China",
+      "summary": ""
+    },
+    {
+      "title": "Outstanding Graduate Student",
+      "date": "2022-06-01",
+      "awarder": "Southern Medical University",
+      "summary": ""
+    },
+    {
+      "title": "National Scholarship for M.S. Students",
+      "date": "2021-12-01",
+      "awarder": "Southern Medical University",
+      "summary": ""
+    },
+    {
+      "title": "Champion, MICCAI TN-SCUI2020 Thyroid Classification Track",
+      "date": "2020-10-01",
+      "awarder": "MICCAI",
+      "summary": "Won the classification track of the MICCAI Thyroid Nodule Classification & Segmentation Challenge (TN-SCUI2020)."
+    },
+    {
+      "title": "Exempt Admission Scholarship",
+      "date": "2019-11-01",
+      "awarder": "Southern Medical University",
+      "summary": ""
     }
   ]
 }
