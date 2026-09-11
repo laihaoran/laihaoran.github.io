@@ -1,16 +1,16 @@
 {
   "basics": {
     "name": "Haoran Lai",
-    "email": "haoranlai@mail.ustc.edu.cn",
+    "email": "hrlai@stu.edu.cn",
     "phone": "",
     "website": "https://laihaoran.github.io",
-    "summary": "Ph.D. candidate in Biomedical Engineering at USTC. Research on 3D medical vision-language models, cross-modal alignment, and reinforcement learning for clinical reasoning.",
+    "summary": "Lecturer in the College of Engineering at Shantou University since July 2026. Received a Ph.D. in Biomedical Engineering from USTC in June 2026. Research on 3D medical vision-language models, cross-modal alignment, and reinforcement learning for clinical reasoning.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Suzhou",
+      "city": "Shantou",
       "countryCode": "CN",
-      "region": "Jiangsu"
+      "region": "Guangdong"
     },
     "profiles": [
       {
@@ -32,6 +32,14 @@
   },
   "work": [
     {
+      "company": "Shantou University, College of Engineering",
+      "position": "Lecturer",
+      "startDate": "2026-07",
+      "endDate": "",
+      "summary": "Research on medical vision-language models and multimodal learning.",
+      "highlights": []
+    },
+    {
       "company": "iFLYTEK Co., Ltd. — Smart Healthcare Institute",
       "position": "Research Algorithm Engineer (Intern)",
       "startDate": "2023-04-01",
@@ -49,7 +57,7 @@
       "area": "Biomedical Engineering",
       "studyType": "Ph.D.",
       "startDate": "2022-09-01",
-      "endDate": "",
+      "endDate": "2026-06",
       "gpa": null,
       "courses": [],
       "advisor": "Prof. Shaohua Zhou (IEEE Fellow, Dean)"
@@ -78,17 +86,29 @@
     {
       "name": "Programming Languages",
       "level": "Proficient",
-      "keywords": ["Python", "C++"]
+      "keywords": [
+        "Python",
+        "C++"
+      ]
     },
     {
       "name": "Deep Learning Frameworks",
       "level": "Proficient",
-      "keywords": ["PyTorch", "TensorFlow"]
+      "keywords": [
+        "PyTorch",
+        "TensorFlow"
+      ]
     },
     {
       "name": "Research Areas",
       "level": "",
-      "keywords": ["Medical Image Analysis", "Vision-Language Models", "Cross-modal Alignment", "3D Medical Imaging", "Reinforcement Learning"]
+      "keywords": [
+        "Medical Image Analysis",
+        "Vision-Language Models",
+        "Cross-modal Alignment",
+        "3D Medical Imaging",
+        "Reinforcement Learning"
+      ]
     }
   ],
   "languages": [
@@ -114,6 +134,13 @@
   ],
   "references": [],
   "publications": [
+    {
+      "name": "Med3D-R1: Mitigating Narrative Bias and Enhancing Reasoning Consistency in 3D Medical Vision-Language Models",
+      "publisher": "MICCAI 2026",
+      "releaseDate": "",
+      "website": "",
+      "summary": "Accepted. 1st author. CCF B."
+    },
     {
       "name": "Bridged Semantic Alignment for Zero-shot 3D Medical Image Diagnosis",
       "publisher": "IEEE Journal of Biomedical and Health Informatics",
