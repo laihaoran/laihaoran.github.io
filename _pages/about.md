@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Biomedical Engineering at the **University of Science and Technology of China (USTC)**, advised by [Prof. Shaohua Zhou](https://en.ustc.edu.cn/) (IEEE Fellow, Dean). My research focuses on **3D medical vision-language models**, **cross-modal feature alignment**, and **clinical reasoning with reinforcement learning**.
+I am a Lecturer in the **College of Engineering, Shantou University**, where I joined in July 2026. I received my Ph.D. in Biomedical Engineering from the **University of Science and Technology of China (USTC)** in June 2026, advised by [Prof. Shaohua Zhou](https://en.ustc.edu.cn/) (IEEE Fellow, Dean). My research focuses on **3D medical vision-language models**, **cross-modal feature alignment**, and **clinical reasoning with reinforcement learning**.
 
 Previously, I completed my M.S. (2022) and B.S. (2019) in Biomedical Engineering at **Southern Medical University**, where I was advised by Prof. Meiyan Huang (Guangdong Young Pearl River Scholar).
 
@@ -24,8 +24,11 @@ Previously, I completed my M.S. (2022) and B.S. (2019) in Biomedical Engineering
 
 ## News
 
+- **[Jul 2026]** Joined the **College of Engineering, Shantou University**, as a **Lecturer**.
+- **[Jun 2026]** Received my **Ph.D. in Biomedical Engineering** from **USTC**.
+- **[2026]** Paper **Med3D-R1: Mitigating Narrative Bias and Enhancing Reasoning Consistency in 3D Medical Vision-Language Models** accepted at *MICCAI 2026* (CCF B).
+
 - **[Apr 2026]** Honored as **Outstanding Ph.D. Graduate** of USTC (2026).
-- **[Apr 2026]** Paper **Med3D-R1** submitted to *MICCAI 2026* (CCF B) — incentivizing clinical reasoning in 3D medical VLMs.
 - **[2025]** Paper **Bridged Semantic Alignment for Zero-shot 3D Medical Image Diagnosis** accepted by ***IEEE Journal of Biomedical and Health Informatics*** (CAS Q1, JCR Q1 Top, IF: 6.8).
 - **[Dec 2024]** Awarded the **National Scholarship for Ph.D. Students** at USTC.
 - **[Jun 2024]** Presented **CARZero** as a poster at **CVPR 2024** in Seattle, USA.
@@ -36,6 +39,9 @@ Previously, I completed my M.S. (2022) and B.S. (2019) in Biomedical Engineering
 ## Selected Publications
 
 **Conference Papers**
+
+- **Med3D-R1: Mitigating Narrative Bias and Enhancing Reasoning Consistency in 3D Medical Vision-Language Models**  
+  **Haoran Lai**, et al. *MICCAI 2026* (accepted, CCF B)
 
 - **CARZero: Cross-Attention Alignment for Radiology Zero-Shot Classification**  
   **Haoran Lai**, et al. *CVPR 2024* (CCF A, Top Venue in Computer Vision)
@@ -62,9 +68,6 @@ Previously, I completed my M.S. (2022) and B.S. (2019) in Biomedical Engineering
 - **E3D-GPT: Enhanced 3D Visual Foundation for Medical Vision-Language Model**  
   **Haoran Lai**, et al. (1st author)
 
-- **Med3D-R1: Incentivizing Clinical Reasoning in 3D Medical Vision-Language Models for Abnormality Diagnosis**  
-  **Haoran Lai**, et al. *MICCAI 2026* (under review, CCF B)
-
 ---
 
 ## Honors & Awards
@@ -85,6 +88,6 @@ Previously, I completed my M.S. (2022) and B.S. (2019) in Biomedical Engineering
 
 Feel free to reach out for collaborations on medical vision-language models, multimodal learning, or clinical AI.
 
-- **Email**: [haoranlai@mail.ustc.edu.cn](mailto:haoranlai@mail.ustc.edu.cn)
+- **Email**: [hrlai@stu.edu.cn](mailto:hrlai@stu.edu.cn)
 - **GitHub**: [github.com/laihaoran](https://github.com/laihaoran)
 - **Google Scholar**: [Profile](https://scholar.google.com/citations?user=y4RUE_YAAAAJ&hl=zh-TW)
