@@ -9,9 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+## Academic Appointments
+
+* **Lecturer**, College of Engineering, Shantou University, Jul 2026 – Present
+
+---
+
 ## Education
 
-* **Ph.D. in Biomedical Engineering**, University of Science and Technology of China (USTC), 2022 – Present  
+* **Ph.D. in Biomedical Engineering**, University of Science and Technology of China (USTC), Sep 2022 – Jun 2026  
   Advisor: Prof. Shaohua Zhou (IEEE Fellow, Dean)
 
 * **M.S. in Biomedical Engineering**, Southern Medical University, 2019 – 2022  
@@ -44,7 +50,7 @@ Multimodal learning, medical image analysis, vision-language models, cross-modal
 - Built a VQA dataset from 3D CT scans and paired reports; proposed an efficient image-text alignment strategy; designed a **loss correction strategy** to address output bias in autoregressive models caused by report spatial bias.
 - In the RL stage, proposed a **consistency reward function** to optimize reasoning chains, significantly enhancing diagnostic accuracy and logical coherence.
 - The resulting 3D CT LLM surpasses existing open-source general and medical models on diagnostic and reasoning benchmarks.
-- *Paper submitted to CVPR 2026 (CCF A).*
+- *Med3D-R1 accepted at MICCAI 2026 (CCF B).*
 
 **3D Vision-Language Alignment and Cross-Modal Reasoning**, Dec 2023 – Jun 2024  
 - Designed cross-modal alignment algorithms for semantic mapping between 3D vision and language, supporting zero-shot classification and image-text retrieval on 3D medical images.
@@ -92,19 +98,19 @@ Multimodal learning, medical image analysis, vision-language models, cross-modal
 
 **Conference Papers**
 
-1. **CARZero: Cross-Attention Alignment for Radiology Zero-Shot Classification**  
+1. **Med3D-R1: Mitigating Narrative Bias and Enhancing Reasoning Consistency in 3D Medical Vision-Language Models**  
+   **Haoran Lai**, et al. *MICCAI 2026* (accepted). **(1st author)** — CCF B
+
+2. **CARZero: Cross-Attention Alignment for Radiology Zero-Shot Classification**  
    **Haoran Lai**, et al. *CVPR 2024*. **(1st author)** — CCF A, Top Venue in Computer Vision
 
-2. **Long-Tailed Multi-Label Classification with Noisy Label of Thoracic Diseases from Chest X-Ray**  
+3. **Long-Tailed Multi-Label Classification with Noisy Label of Thoracic Diseases from Chest X-Ray**  
    **Haoran Lai**, et al. *ISBI 2024*. **(1st author)** — IEEE Flagship Conference in Biomedical Imaging
 
 **Under Review**
 
 1. **E3D-GPT: Enhanced 3D Visual Foundation for Medical Vision-Language Model**  
    **Haoran Lai**, et al. **(1st author)**
-
-2. **Med3D-R1: Incentivizing Clinical Reasoning in 3D Medical Vision-Language Models for Abnormality Diagnosis**  
-   **Haoran Lai**, et al. *MICCAI 2026* (under review). **(1st author)** — CCF B
 
 ---
 
