@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Haoran Lai | Academic Homepage"
 title_separator          : "-"
 name                     : &name "Haoran Lai"
-description              : &description "Ph.D. student at USTC, specializing in medical image analysis, multimodal learning, and vision-language models."
+description              : &description "Lecturer at the College of Engineering, Shantou University, specializing in medical image analysis, multimodal learning, and vision-language models."
 url                      : https://laihaoran.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "laihaoran/laihaoran.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Haoran Lai"
   pronouns         : # example: "he/him"  
-  bio              : "Ph.D. student @ <a href='https://en.ustc.edu.cn/'>USTC</a>. Research on medical vision and multimodal learning."
-  location         : "Suzhou, China"
-  employer         : "University of Science and Technology of China"
+  bio              : "Lecturer, College of Engineering, Shantou University. Research on medical vision and multimodal learning."
+  location         : "Shantou, China"
+  employer         : "Shantou University"
   uri              : "https://laihaoran.github.io"# URL
-  email            : "haoranlai@mail.ustc.edu.cn" 
+  email            : "hrlai@stu.edu.cn" 
 
   # Academic websites
   academia         : # URL
