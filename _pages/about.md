@@ -13,6 +13,16 @@ Previously, I completed my M.S. (2022) and B.S. (2019) in Biomedical Engineering
 
 ---
 
+## Industry Experience
+
+- **Ant Group, Healthcare Business Unit** — *Medical Foundation Model Engineer Intern*  
+  Mar. 2026 – Jun. 2026
+
+- **iFLYTEK Healthcare** — *Assistant Algorithm Engineer*  
+  Apr. 2023 – Apr. 2025
+
+---
+
 ## Research Interests
 
 - **3D Medical Vision-Language Models** — CT/MRI report generation and abnormality reasoning
